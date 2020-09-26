@@ -1,0 +1,25 @@
+{
+  "name": "basics01-dsmglms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "node check.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DSMG-LMS/basics01-dsmglms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DSMG-LMS/basics01-dsmglms/issues"
+  },
+  "homepage": "https://github.com/DSMG-LMS/basics01-dsmglms#readme",
+  "dependencies": {
+    "arduino-node": "^0.5.2"
+  }
+}
